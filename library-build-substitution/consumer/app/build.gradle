@@ -1,0 +1,8 @@
+plugins {
+    id("application")
+}
+
+dependencies {
+    implementation("io.github.rieske.dbtest:postgresql:0.0.4")
+}
+
